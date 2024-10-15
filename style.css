@@ -11,7 +11,7 @@ body{
 .container{
    
     max-width: 600px;
-    margin: 150px auto;
+    margin: 100px auto;
     padding: 30px;
 }
 /* Cards */
@@ -33,3 +33,14 @@ body{
     font-weight: 600px;
     margin-bottom: 25px;
 }
+/* Links */
+
+.card a{
+    text-decoration: none;
+    color: rgb(227, 224, 224);
+    background-color: rgb(42, 41, 41);
+    padding: 10px 15px; 
+    border-radius: 100px;
+
+}
+
