@@ -43,4 +43,14 @@ body{
     border-radius: 100px;
 
 }
+/* heading colors */
 
+.card-sporty h2{
+    color: rgb(251, 88, 29) ;
+}
+.card-casual h2{
+    color: rgb(6, 127, 247) ;
+}
+.card-formal h2{
+    color: rgb(109, 29, 0) ;
+}
