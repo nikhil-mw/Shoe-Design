@@ -41,6 +41,7 @@ body{
     background-color: rgb(42, 41, 41);
     padding: 10px 15px; 
     border-radius: 100px;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
 
 }
 /* heading colors */
@@ -54,3 +55,15 @@ body{
 .card-formal h2{
     color: rgb(109, 29, 0) ;
 }
+/* button Color */
+.card-sporty a{
+    background-color: rgb(251, 88, 29);
+}
+.card-casual a{
+    background-color: rgb(6, 127, 247);
+}
+.card-formal a{
+    background-color: rgb(109, 29, 0);
+}
+
+
