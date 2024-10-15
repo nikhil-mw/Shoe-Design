@@ -6,7 +6,7 @@
 
 body{
     font-family: sans-serif;
-    background-color: rgb(203, 235, 243);
+    background-color: rgb(167, 184, 188);
 }
 .container{
    
@@ -27,4 +27,9 @@ body{
     font-size: 23px;
     margin-bottom: 14px;
 }
-
+/* paragraphs */
+.card p{
+    font-size: 15px;
+    font-weight: 600px;
+    margin-bottom: 25px;
+}
