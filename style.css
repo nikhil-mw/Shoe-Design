@@ -10,8 +10,8 @@ body{
 }
 .container{
    
-    max-width: 600px;
-    margin: 100px auto;
+    max-width: 520px;
+    margin: 100px auto; 
     padding: 30px;
 }
 /* Cards */
@@ -66,4 +66,20 @@ body{
     background-color: rgb(109, 29, 0);
 }
 
+/*  bg images layout */
 
+.card-sporty{
+    background: rgb(245, 243, 243) url(./images/sporty.png) no-repeat center right  ;
+    background-size: 155px;
+
+}
+.card-casual{
+    background: rgb(245, 243, 243) url(./images/casual.png) no-repeat center right  ;
+    background-size: 180px;
+
+}
+.card-formal{
+    background: rgb(245, 243, 243) url(./images/formal.png) no-repeat center right  ;
+    background-size: 165px;
+
+}
