@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(203, 235, 243);
+}
+.container{
+   
+    max-width: 600px;
+    margin: 150px auto;
+    padding: 30px;
+}
+/* Cards */
+.card{
+    background-color: rgb(245, 243, 243);
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px 20px 20px;
+}
